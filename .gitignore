@@ -10,7 +10,8 @@ nupkg/
 
 # Rider
 .idea
-
+#json Test
+*.json
 # User-specific files
 *.suo
 *.user
